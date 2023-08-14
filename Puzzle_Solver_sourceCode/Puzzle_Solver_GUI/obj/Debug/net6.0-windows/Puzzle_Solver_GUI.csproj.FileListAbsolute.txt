@@ -1,0 +1,38 @@
+C:\Users\Adnan Dalain\source\repos\Puzzle_Solver_GUI\Puzzle_Solver_GUI\bin\Debug\net6.0-windows\Puzzle_Solver_GUI.exe
+C:\Users\Adnan Dalain\source\repos\Puzzle_Solver_GUI\Puzzle_Solver_GUI\bin\Debug\net6.0-windows\Puzzle_Solver_GUI.deps.json
+C:\Users\Adnan Dalain\source\repos\Puzzle_Solver_GUI\Puzzle_Solver_GUI\bin\Debug\net6.0-windows\Puzzle_Solver_GUI.runtimeconfig.json
+C:\Users\Adnan Dalain\source\repos\Puzzle_Solver_GUI\Puzzle_Solver_GUI\bin\Debug\net6.0-windows\Puzzle_Solver_GUI.runtimeconfig.dev.json
+C:\Users\Adnan Dalain\source\repos\Puzzle_Solver_GUI\Puzzle_Solver_GUI\bin\Debug\net6.0-windows\Puzzle_Solver_GUI.dll
+C:\Users\Adnan Dalain\source\repos\Puzzle_Solver_GUI\Puzzle_Solver_GUI\bin\Debug\net6.0-windows\ref\Puzzle_Solver_GUI.dll
+C:\Users\Adnan Dalain\source\repos\Puzzle_Solver_GUI\Puzzle_Solver_GUI\bin\Debug\net6.0-windows\Puzzle_Solver_GUI.pdb
+C:\Users\Adnan Dalain\source\repos\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.csprojAssemblyReference.cache
+C:\Users\Adnan Dalain\source\repos\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.Form1.resources
+C:\Users\Adnan Dalain\source\repos\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.csproj.GenerateResource.cache
+C:\Users\Adnan Dalain\source\repos\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adnan Dalain\source\repos\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.AssemblyInfoInputs.cache
+C:\Users\Adnan Dalain\source\repos\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.AssemblyInfo.cs
+C:\Users\Adnan Dalain\source\repos\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Adnan Dalain\source\repos\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.dll
+C:\Users\Adnan Dalain\source\repos\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\ref\Puzzle_Solver_GUI.dll
+C:\Users\Adnan Dalain\source\repos\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.pdb
+C:\Users\Adnan Dalain\source\repos\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.genruntimeconfig.cache
+C:\Users\Adnan Dalain\source\repos\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.Properties.Resources.resources
+C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\bin\Debug\net6.0-windows\Puzzle_Solver_GUI.exe
+C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\bin\Debug\net6.0-windows\Puzzle_Solver_GUI.deps.json
+C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\bin\Debug\net6.0-windows\Puzzle_Solver_GUI.runtimeconfig.json
+C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\bin\Debug\net6.0-windows\Puzzle_Solver_GUI.runtimeconfig.dev.json
+C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\bin\Debug\net6.0-windows\Puzzle_Solver_GUI.dll
+C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\bin\Debug\net6.0-windows\ref\Puzzle_Solver_GUI.dll
+C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\bin\Debug\net6.0-windows\Puzzle_Solver_GUI.pdb
+C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.csprojAssemblyReference.cache
+C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.Form1.resources
+C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.Properties.Resources.resources
+C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.csproj.GenerateResource.cache
+C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.AssemblyInfoInputs.cache
+C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.AssemblyInfo.cs
+C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.dll
+C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\ref\Puzzle_Solver_GUI.dll
+C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.pdb
+C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\obj\Debug\net6.0-windows\Puzzle_Solver_GUI.genruntimeconfig.cache

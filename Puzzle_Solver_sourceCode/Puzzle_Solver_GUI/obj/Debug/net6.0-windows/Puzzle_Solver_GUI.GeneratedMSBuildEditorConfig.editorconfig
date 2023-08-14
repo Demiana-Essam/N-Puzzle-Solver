@@ -1,0 +1,8 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Puzzle_Solver_GUI
+build_property.ProjectDir = C:\Users\Adnan Dalain\Desktop\Algorithm lec\Our Project\Puzzle_Solver_GUI\Puzzle_Solver_GUI\
